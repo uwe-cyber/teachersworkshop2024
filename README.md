@@ -7,7 +7,7 @@ Below is an overview of the activities that we will showcase at the CyberWEST wo
 * [Lesson - Coding for network security Making Microbits useful](#)
 * [Lesson - Securing cyber-physical Systems through play: Cyber FunFair](https://github.com/uwe-cyber/teachersworkshop2024/blob/main/lesson-cyberfunfair.md)
 * [Lesson - Managing cyber incidents: growing into a cyber mindset using the Incident Response card game](#)
-
+* [Lesson - A Raspberry Pi Lab for teaching Fundamental Cyber Security](#)
 
 ## Exeter Workshop
 
