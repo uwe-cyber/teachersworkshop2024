@@ -1,6 +1,6 @@
-# CyberWEST - UWE Workshop 2024
+# CyberWEST - West of England Schools and Teachers
 
-Below is an overview of the activities that we will showcase at the CyberWEST workshops, designed to help teachers upskill and deliver practical activities for teaching cyber security education.
+Below is an overview of the activities that we will showcase at the CyberWEST Teacher's workshops 2024, designed to help teachers upskill and deliver practical activities for teaching cyber security education.
 
 ## UWE Workshop
 
