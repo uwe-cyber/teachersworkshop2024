@@ -4,7 +4,7 @@ Below is an overview of the activities that we will showcase at the CyberWEST wo
 
 ## UWE Workshop
 
-* [Lesson - Cyber Funfair]([./](https://github.com/uwe-cyber/teachersworkshop2024/blob/main/lesson-cyberfunfair.md)https://github.com/uwe-cyber/teachersworkshop2024/blob/main/lesson-cyberfunfair.md)
+* [Lesson - Cyber Funfair](https://github.com/uwe-cyber/teachersworkshop2024/blob/main/lesson-cyberfunfair.md)
 * [Lesson - Incident Response Card Game](#)
 * [Lesson - Pi Lab Network Security](#)
 
