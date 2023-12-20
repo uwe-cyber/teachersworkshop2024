@@ -14,9 +14,9 @@ Depending on the attack the LEGO rides will stop, slow down or speed up, these p
 
 ## Curriculum Links and Key Concepts
 
-* [Fundamentals of computer networks ](https://www.bbc.co.uk/bitesize/guides/z777xfr/revision/1)
-* [Fundamentals of cyber security](https://www.bbc.co.uk/bitesize/guides/znnny4j/revision/1)
-* [Network topologies, protocols and layers](https://www.bbc.co.uk/bitesize/guides/z666pbk/revision/1)
+* [Fundamentals of computer networks (AQA)](https://www.aqa.org.uk/subjects/computer-science-and-it/gcse/computer-science-8525/subject-content#Fundamentals_of_computer_networks)
+* [Fundamentals of cyber security (AQA)](https://www.aqa.org.uk/subjects/computer-science-and-it/gcse/computer-science-8525/subject-content#Cyber_security)
+* [Network topologies, protocols and layers (BBC)](https://www.bbc.co.uk/bitesize/guides/z666pbk/revision/1)
 * [Network Traffic Analysis (NTA)]
 * Cyber Physical Systems (CPS)
 
