@@ -1,6 +1,6 @@
 ![](https://uwe-cyber.github.io/images/uwe_banner.png)
 
-# Activity: Incident Management & Response
+# Activity: Managing cyber incidents - growing into a cyber mindset using the Incident Response card game
 
 ## Activity Overview
 
