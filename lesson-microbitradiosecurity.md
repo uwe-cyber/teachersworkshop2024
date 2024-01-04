@@ -46,6 +46,6 @@ In the final phase the micro:bits will use pairing and encryption. This will now
 
 ## Further resources 
 
-* [GitHub – Code Repository](https://github.com/uwe-cyber/-micro-bit_of_radio_security) 
+* [GitHub – Code Repository](https://github.com/uwe-cyber/micro-bit_of_radio_security) 
 
 
