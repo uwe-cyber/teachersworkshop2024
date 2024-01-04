@@ -12,8 +12,7 @@ In this activity students work through managing and responding to incidents usin
 
 Capital and reputation are the scoring system used in the game. Players pay capital to purchase assets. These can then allow them to have business opportunities. Reputation and capital are gained through business opportunities and lost through incidents. Incidents, if unmitigated, can also cause players to lose existing Business Opportunities. 
 
-This activity requires the use of playing cards and can be played as a table top game or through provided tablets. The template to print cards off for the table top version is available from the associated GitHub Repo and some physical cards are also available to borrow. The code to play the game locally is available from the  GitHub Repo.
-
+This activity requires the use of playing cards and can be played as a table top game or through provided tablets. The template to print cards off for the table top version and code to play the game locally is available from the associated GitHub repo. Some physical cards are also available to borrow.
 
 ## Session Duration
 
