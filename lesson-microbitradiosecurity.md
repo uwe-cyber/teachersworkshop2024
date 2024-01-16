@@ -7,7 +7,6 @@
 This activity requires at least 2x BBC micro:bits(v2) and a laptop with either python installed or an active internet connection (allowing use of the https://python.microbit.org/v/3).  
 
 Students will use the micro:bits to communicate with each other via radio. Initial communication will be done as a broadcast and in plaintext. Students will then work through the use of pairing and “encrypted” communication. The exercise has been designed to cover the importance of secure communication and use of coding within cyber security. 
-Depending on the attack the LEGO rides will stop, slow down or speed up, these physically observable changes should help point students to the fact an attack is underway and can be used in conjunction with NTA and the provided Graphical User Interface (GUI) to identify and counter the attacks.
 
 ## Session Duration
 
