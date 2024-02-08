@@ -22,8 +22,7 @@ Below is an overview of the activities that we will showcase at the CyberWEST Te
 
 ## Exeter Workshop
 
-* [Activity 1 - CyberCraft - A primer for game-based learning in cyber security using Minecraft: Education Edition](https://github.com/ARH-UoE/blob/main/cyberGBL.md)
+* [Activity 1 - CyberCraft - A primer for game-based learning in cyber security using Minecraft: Education Edition](https://github.com/arh-uoe/CyberWEST-2024/blob/main/cyberGBL.md)
 * [Activity 2 - CyberCraft - Cyber Security education in Minecraft: Education edition - Sample lesson](https://github.com/arh-uoe/CyberWEST-2024/blob/main/CyberCraft.md)
 * [Activity 3 - CyberVerse - Cyber Security trading card game](https://github.com/ARH-UoE/blob/main/cyberverse.md)
 * [Activity 4 - CyberTrack - Cyber Security assessment tracker and incentiviser](https://github.com/ARH-UoE/blob/main/cybertrack.md)
-        
