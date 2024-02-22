@@ -11,7 +11,9 @@ Below is an overview of the activities that we will showcase at the CyberWEST Te
 
 ## Bristol Workshop
 
-* TBC
+* [Activity 1 - Wi-fi Hacking using Aircrack-Ng](#)
+* [Activity 2 - Metasploit Toolkit for Penetration Testing](#)
+* [Activity 3 - Pringles Can Enigma](https://cyber.org/find-curricula/pringles-can-enigma)
 
 ## Plymouth Workshop
 
