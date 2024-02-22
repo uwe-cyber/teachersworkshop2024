@@ -1,3 +1,5 @@
+![](https://github.com/uwe-cyber/teachersworkshop2024/blob/54dd2f0c21525d170f39da95146e6f3032e32825/cyberwest-banner.png?raw=true)
+
 # CyberWEST - West of England Schools and Teachers
 
 Below is an overview of the activities that we will showcase at the CyberWEST Teacher's workshops 2024, designed to help teachers upskill and deliver practical activities for teaching cyber security education.
