@@ -26,5 +26,5 @@ Below is an overview of the activities that we will showcase at the CyberWEST Te
 
 * [Activity 1 - CyberCraft - A primer for game-based learning in cyber security using Minecraft: Education Edition](https://github.com/arh-uoe/CyberWEST-2024/blob/main/cyberGBL.md)
 * [Activity 2 - CyberCraft - Cyber Security education in Minecraft: Education edition - Sample lesson](https://github.com/arh-uoe/CyberWEST-2024/blob/main/CyberCraft.md)
-* [Activity 3 - CyberVerse - Cyber Security trading card game]([https://github.com/ARH-UoE/blob/main/cyberverse.md](https://github.com/arh-uoe/CyberWEST-2024/blob/main/CyberVerse.md))
-* [Activity 4 - CyberPick – Physical security of cyber assets]([https://github.com/ARH-UoE/blob/main/novalab.md](https://github.com/arh-uoe/CyberWEST-2024/blob/main/CyberPick.md)https://github.com/arh-uoe/CyberWEST-2024/blob/main/CyberPick.md)
+* [Activity 3 - CyberVerse - Cyber Security trading card game](https://github.com/arh-uoe/CyberWEST-2024/blob/main/CyberVerse.md)
+* [Activity 4 - CyberPick – Physical security of cyber assets](https://github.com/arh-uoe/CyberWEST-2024/blob/main/CyberPick.md)
