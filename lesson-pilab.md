@@ -31,6 +31,12 @@ Please ensure that you have downloaded the two SD card image files before the se
 
 You will need to prepare the SD card of each Raspberry Pi device used by students with the PiLab Client image. The access point will need to be prepared with the PiLab Hotspot image.
 
+The default credentials to log into each PiLab is kali:kali. All PiLab clients for the students should then be automatically connected to the wireless access point called UWEcyber-hotspot (which is broadcast from the hotspot Pi).
+
+To begin the activity, you may wish for each device to be logged in already with the Terminal open, as shown below.
+
+![](https://uwe-cyber.github.io/pilab/images/uwecyber-pi-image002.png)
+
 ## Activity Exercises
 
 ### Task 1: Can each student group find their own IP address?
