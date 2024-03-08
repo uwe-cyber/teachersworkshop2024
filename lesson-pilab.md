@@ -26,8 +26,8 @@ The activity would require at least two groups, with each group having approxima
 
 Please ensure that you have downloaded the two SD card image files before the sessions:
 
-[PiLab Client (32GB Micro SD card required)](https://uweacuk-my.sharepoint.com/:u:/g/personal/phil_legg_uwe_ac_uk/ETo45O_pFRBHoic9u2aWPg8BPtG4o7CrU5-WMGAOviVkuQ?e=oXhabY)
-[PiLab Hotspot (8GB Micro SD card required)](https://uweacuk-my.sharepoint.com/:u:/g/personal/phil_legg_uwe_ac_uk/ETY9V224DkZJhrjpAgMYIpcBX4DKwQltR0zKHfLYtIYa5A?e=nOkCtS)
+* [PiLab Client (32GB Micro SD card required)](https://uweacuk-my.sharepoint.com/:u:/g/personal/phil_legg_uwe_ac_uk/ETo45O_pFRBHoic9u2aWPg8BPtG4o7CrU5-WMGAOviVkuQ?e=oXhabY)
+* [PiLab Hotspot (8GB Micro SD card required)](https://uweacuk-my.sharepoint.com/:u:/g/personal/phil_legg_uwe_ac_uk/ETY9V224DkZJhrjpAgMYIpcBX4DKwQltR0zKHfLYtIYa5A?e=nOkCtS)
 
 You will need to prepare the SD card of each Raspberry Pi device used by students with the PiLab Client image. The access point will need to be prepared with the PiLab Hotspot image.
 
