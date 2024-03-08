@@ -24,7 +24,7 @@ This activity could be used for any key stage groups.
 
 The activity would require at least two groups, with each group having approximately 3-4 students.
 
-Please ensure that you have downloaded the two SD card image files before the sessions:
+Please ensure that you have downloaded the two SD card image files before the sessions (the password to download these is **uwecyber2024**):
 
 * [PiLab Client (32GB Micro SD card required)](https://uweacuk-my.sharepoint.com/:u:/g/personal/phil_legg_uwe_ac_uk/ETo45O_pFRBHoic9u2aWPg8BPtG4o7CrU5-WMGAOviVkuQ?e=oXhabY)
 * [PiLab Hotspot (8GB Micro SD card required)](https://uweacuk-my.sharepoint.com/:u:/g/personal/phil_legg_uwe_ac_uk/ETY9V224DkZJhrjpAgMYIpcBX4DKwQltR0zKHfLYtIYa5A?e=nOkCtS)
