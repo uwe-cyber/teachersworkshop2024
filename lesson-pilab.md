@@ -6,7 +6,7 @@
 
 This activity uses the UWE [PiLab](https://uwe-cyber.github.io/pilab/) project to provide a staged approach for conducting a password security exercise. Students will learn about remote access using the Secure Shell (SSH) protocol, and experience how a remote user (or attacker) could create files on a target computer. To defend against this behaviour, the defending team can change their password credentials. However, if they use a password that is weak then the attacking team can brute force their entry by making multiple login attempts from a known list of passwords (a dictionary). This provides a practical experience of why a long and unique password (like the [NCSC three random words guidance](https://www.ncsc.gov.uk/collection/top-tips-for-staying-secure-online/three-random-words)) is so important for ensuring that user accounts remain secure.
 
-This activity could be used for any key stage groups.
+This activity would likely work best for KS4 or KS5.
 
 ## Session Duration
 
