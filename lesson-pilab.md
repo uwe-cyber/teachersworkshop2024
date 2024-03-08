@@ -55,7 +55,7 @@ Type `cd Desktop` to navigate to the Desktop folder. Then type `nano ATTACK.txt`
 
 You can write a secret message to your target in the file - keep it clean and appropriate. Press Ctrl+S to Save the content exit the editor by pressing Ctrl+X.
 
-An alternative pathway exploring web site tampering is given in the [Full PiLab documentation]([https://uwe-cyber.github.io/lego_funfair/cybok_report.pdf](https://uwe-cyber.github.io/pilab/)).
+An alternative pathway exploring web site tampering is given in the [Full PiLab documentation](https://uwe-cyber.github.io/pilab/).
 
 ## Task 5: Can the defending team harden their security?
 
@@ -101,4 +101,4 @@ Even changing from the default password, if the password is weak (either easy to
 
 ## Further resources 
 
-* [Full PiLab documentation]([https://uwe-cyber.github.io/lego_funfair/cybok_report.pdf](https://uwe-cyber.github.io/pilab/))
+* [Full PiLab documentation](https://uwe-cyber.github.io/pilab/)
