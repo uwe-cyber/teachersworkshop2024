@@ -55,7 +55,7 @@ At this stage we do not know which students have which IP address. Let us assume
 
 To begin, since all students have the same set up, all credentials are defaulted to a username of kali and a password of kali, so you should be able to log in.
 
-## Task 4: Now that you have access to another machine - what can you do? Can you create a text file on their Desktop to find out?
+### Task 4: Now that you have access to another machine - what can you do? Can you create a text file on their Desktop to find out?
 
 Type `cd Desktop` to navigate to the Desktop folder. Then type `nano ATTACK.txt`.
 
@@ -63,7 +63,7 @@ You can write a secret message to your target in the file - keep it clean and ap
 
 An alternative pathway exploring web site tampering is given in the [Full PiLab documentation](https://uwe-cyber.github.io/pilab/).
 
-## Task 5: Can the defending team harden their security?
+### Task 5: Can the defending team harden their security?
 
 At this stage the defending team need to change their password. You can curate a set of passwords from the rockyou wordlist and you could have students draw these from a raffle or similar. Alternatively, below are five possible words you may offer them to choose from:
 
@@ -75,7 +75,7 @@ At this stage the defending team need to change their password. You can curate a
 
 At the Terminal, type `sudo passwd kali`, then press enter, and then type in carefully the password you have been given.
 
-## Task 6: Brute force attack on the defending machine
+### Task 6: Brute force attack on the defending machine
 
 We no longer have a default password on the defending team machine - so are we now secure?
 
