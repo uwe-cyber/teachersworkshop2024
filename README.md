@@ -9,7 +9,7 @@ Below is an overview of the activities that we will showcase at the CyberWEST Te
 * [Activity 1 - Coding for network security Making Microbits useful](https://github.com/uwe-cyber/teachersworkshop2024/blob/main/lesson-microbitradiosecurity.md)
 * [Activity 2 - Securing cyber-physical Systems through play: Cyber FunFair](https://github.com/uwe-cyber/teachersworkshop2024/blob/main/lesson-cyberfunfair.md)
 * [Activity 3 - Managing cyber incidents - growing into a cyber mindset using the Incident Response card game](https://github.com/uwe-cyber/teachersworkshop2024/blob/main/lesson-IRM.md)
-* [Activity 4 - A Raspberry Pi Lab for teaching Fundamental Cyber Security](https://uwe-cyber.github.io/pilab/)
+* [Activity 4 - A Raspberry Pi Lab for teaching Fundamental Cyber Security](https://github.com/uwe-cyber/teachersworkshop2024/blob/main/lesson-pilab.md)
 
 ## Bristol Workshop
 
