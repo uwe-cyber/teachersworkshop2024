@@ -52,7 +52,7 @@ After each quiz, there is an opportunity for the teacher to review the answers a
 # Resources
 
 <ul>
-<li><a href="Resources/Human Aspects of Cyber Security.pptx">Presentation slideset</a>
+<li><a href="https://github.com/uwe-cyber/teachersworkshop2024/tree/main/plymouth/Resources/Human Aspects of Cyber Security.pptx">Presentation slideset</a>
 <li><a href="Resources/Security Policies">Example Security Policy</li></a>  
 <li><a href="Resources/Human Aspects - Social Engineering Activity.pptx">Social engineering quiz</a>
 <li><a href="Resources/Awareness Posters">Cyber Security Awareness poster examples</a>
