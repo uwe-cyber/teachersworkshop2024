@@ -44,8 +44,8 @@ The lesson will begin with a slideset presentation to introduce some examples of
 # Further Resources
 
 <ul>
-  <li><a href="Resources/Network attack detection and defence.pptx">Presentation slideset</a>
-  <li><a href="Resources/Network attack detection and defence.docx">Activity instructions</a>
+  <li><a href="https://github.com/uwe-cyber/teachersworkshop2024/tree/main/plymouth/Resources/Network attack detection and defence.pptx">Presentation slideset</a>
+  <li><a href="https://github.com/uwe-cyber/teachersworkshop2024/tree/main/plymouth/Resources/Network attack detection and defence.docx">Activity instructions</a>
   <li> <a href="https://www.vmware.com/uk/products/workstation-player/workstation-player-evaluation.html"> VMWare player </li>
   <li>EVE-NG virtual machine </li>
 </ul>
