@@ -58,7 +58,7 @@ Discussion and finishing up the lession - highlighting that there are a range of
 # Resources
 
 <ul>
-<li><a href="/Resources/Fighting Cybercrime using Digital Forensics.pptx">Presentation slideset</a>
+<li><a href="https://github.com/uwe-cyber/teachersworkshop2024/blob/main/plymouth/Resources/Fighting%20Cybercrime%20using%20Digital%20Forensics.pdf">Presentation slideset</a>
 <li>Forensic Tool - <a href="https://www.autopsy.com/download/">Autopsy for Windows</a>
 <li>Forensic Image - <a href="https://www.haisa.org/DF_Resources/Hunter XP.EO1">HunterXP</a>
 </ul>
